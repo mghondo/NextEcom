@@ -1,5 +1,3 @@
-// Import the required module using the import statement
-// import { config } from "next/dist/build/templates/pages";
 // const config = require("../config");
 import config from "./config.js";
 
